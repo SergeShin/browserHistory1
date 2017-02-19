@@ -1,36 +1,7 @@
-
 body {
-  font-family: Open Sans;
-  color: DarkBlue;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-left: 50px;
-  margin-right: 50px;
-  background-color: Ivory;
-}
-h1, h2, h3 {
-  font-family: Oswald;
-}
-img {
-  display: inline-block;
-  float: left;
-  margin-right: 10px;
+  margin-top:50px
 }
 
-.column {
-  float: left;
-  width: 300px
-}
-
-.navigation ul {
-  text-decoration: none;
-}
-
-.navigation li {
-  list-style: : none;
-  float: left;
-  width: 25%;
-  display: block;
-  height: 50px;
-  line-height: 50px;
+h1 {
+  color: #2767AF
 }
